@@ -1,5 +1,7 @@
 # Exploratory Data Analysis of Loan Applications
 
+![Loan EDA Banner](./assets/logo.png)
+
 ## Contents
 
 * [Project Overview](#project-overview)
@@ -18,6 +20,7 @@ This project performs an in-depth exploratory data analysis (EDA) and statistica
 
 - [`eda_project.ipynb`](./eda_project.ipynb) – Jupyter Notebook containing the complete analysis, visualizations, and interpretations.  
 - `requirements.txt` – A file listing all Python libraries required to run the notebook.
+- `LICENSE` – MIT License governing use and distribution of this project.
 
 ## Software Used
 
