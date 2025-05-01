@@ -14,7 +14,7 @@
 
 ## Project Overview
 
-This project performs an in-depth exploratory data analysis (EDA) and statistical testing on a loan dataset. It aims to discover hidden insights, evaluate relationships between variables, and use statistical modeling techniques to understand patterns that may influence loan decisions.
+In this project, I conducted an in-depth exploratory data analysis (EDA) and statistical testing on a loan dataset using Python in a Jupyter Notebook environment using libraries such as pandas for data manipulation, seaborn and matplotlib for visualization, scipy for statistical hypothesis testing, and scikit-learn for model development to uncover hidden insights, examine relationships between variables, and understand patterns that may influence loan decisions.
 
 ## Main Files
 
@@ -64,7 +64,7 @@ git clone https://github.com/ankito090/Exploratory-Data-Analysis-of-Loan-Applica
 
 Ensure that Python is installed on your machine. If not:
 
-#### Option 1 : Install via Anaconda (Recommended for beginners)
+#### Option 1: Install via Anaconda (Recommended for beginners)
 
 - Download and install Anaconda from [here](https://www.anaconda.com/products/distribution)
 
