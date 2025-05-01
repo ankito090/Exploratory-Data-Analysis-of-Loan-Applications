@@ -16,7 +16,7 @@ This project performs an in-depth exploratory data analysis (EDA) and statistica
 
 ## Main Files
 
-- `eda_project.ipynb` – Jupyter Notebook containing the complete analysis, visualizations, and interpretations.
+- [`eda_project.ipynb`](./eda_project.ipynb) – Jupyter Notebook containing the complete analysis, visualizations, and interpretations.  
 - `requirements.txt` – A file listing all Python libraries required to run the notebook.
 
 ## Software Used
