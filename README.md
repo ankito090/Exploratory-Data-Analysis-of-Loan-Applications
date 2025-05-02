@@ -19,7 +19,8 @@ In this project, I conducted an in-depth exploratory data analysis (EDA) and sta
 ## Main Files
 
 - [`eda_project.ipynb`](./eda_project.ipynb) – Jupyter Notebook containing the complete analysis, visualizations, and interpretations.  
-- `requirements.txt` – A file listing all Python libraries required to run the notebook.
+- [`loanapp.csv`](./loanapp.csv) – The dataset containing loan application data.  
+- [`requirements.txt`](./requirements.txt) – A file listing all Python libraries required to run the notebook.
 - [`LICENSE`](./LICENSE) – MIT License governing use and distribution of this project.
 
 ## Software Used
@@ -62,7 +63,7 @@ git clone https://github.com/ankito090/Exploratory-Data-Analysis-of-Loan-Applica
 
 ### 2. Install Python and Jupyter Notebook
 
-Ensure that Python is installed on your machine. If not:
+Ensure that Python and Jupyter Notebook are installed on your machine. If not:
 
 #### Option 1: Install via Anaconda (Recommended for beginners)
 
